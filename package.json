@@ -1,0 +1,24 @@
+{
+  "name": "angular-login-register",
+  "version": "1.0.0",
+  "description": "Simple angular app that does login and registration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live": "budo js/app.js:js/prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swolebrain/angular-login-register.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swolebrain/angular-login-register/issues"
+  },
+  "homepage": "https://github.com/Swolebrain/angular-login-register#readme",
+  "devDependencies": {
+    "budo": "^9.2.0"
+  }
+}
